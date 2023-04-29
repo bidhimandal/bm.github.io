@@ -1,3 +1,4 @@
+#We Built a Discord Bot
 ## Table of Contents
 
 - [Overview](#overview)
