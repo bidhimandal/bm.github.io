@@ -1,7 +1,3 @@
-# We Built a Discord Bot
-
-
-
 ## Table of Contents
 
 - [Overview](#overview)
@@ -18,11 +14,11 @@
 
 ## Installation
 
-[Include step-by-step instructions for installing and configuring the software. This could involve setting up a development environment, downloading dependencies, etc.]
+[Please use the following instructions to invite our bot to your sever:]
 
 ## Usage
+[]
 
-[Provide guidance on how to use the software, including any command syntax, user interfaces, or other relevant information. Consider including screenshots or video tutorials to illustrate key features.]
 
 ## Project Evolution
 
@@ -30,7 +26,10 @@
 
 ## Results
 
-[Showcase your project's capabilities by including screenshots, video, and data, if appropriate. Highlight any key achievements or milestones.]
+[[Upon installation, our bot should help you perform the following tasks:
+
+Moderation commands (e.g. kick, ban, mute)
+A ticket system that saves transcripts as text files]
 
 ## Contributing
 
