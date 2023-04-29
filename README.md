@@ -1,4 +1,4 @@
-# [Project Name]
+# [We Built a Discord Bot]
 
 [Insert a brief description of your project here. Consider including a high-level overview of the project's purpose and functionality.]
 
@@ -10,7 +10,7 @@
 - [Project Evolution](#project-evolution)
 - [Results](#results)
 - [Contributing](#contributing)
-- [License](#license)
+
 
 ## Overview
 
@@ -36,6 +36,3 @@
 
 [If you want to encourage others to contribute to your project, provide guidelines on how they can get involved. This could include information on how to report issues, submit pull requests, and participate in discussions.]
 
-## License
-
-[Specify the license under which your project is distributed. If you're not sure which license to use, consider using a permissive open-source license such as the MIT License.]
