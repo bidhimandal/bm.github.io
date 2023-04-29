@@ -12,19 +12,23 @@
 
 ## Overview
 
-[Provide a brief summary of your project's goals and intended audience. Highlight any unique features or aspects of your project that make it stand out.]
+Summary of the project, goals and who did we build this for. any unique feature.
 
 ## Installation
 
-[Please use the following instructions to invite our bot to your sever:]
+Please use the following instructions to invite our bot to your sever:
+
+1. 
+2. 
 
 ## Usage
-[]
+
+How to use our bot? 
 
 
 ## Project Evolution
 
-[Explore how your project developed over time and convey an illustrious story about creating software that improved throughout the process. You might include screenshots or other tools to demonstrate the project's evolution.]
+
 
 ## Results
 
@@ -35,5 +39,5 @@ Upon installation, our bot should help you perform the following tasks:
 
 ## Contributing
 
-[If you want to encourage others to contribute to your project, provide guidelines on how they can get involved. This could include information on how to report issues, submit pull requests, and participate in discussions.]
+Any help?
 
