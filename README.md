@@ -28,10 +28,10 @@
 
 ## Results
 
-[[Upon installation, our bot should help you perform the following tasks:
+Upon installation, our bot should help you perform the following tasks:
 
-Moderation commands (e.g. kick, ban, mute)
-A ticket system that saves transcripts as text files]
+1. Moderation commands (e.g. kick, ban, mute)
+2. A ticket system that saves transcripts as text files]
 
 ## Contributing
 
