@@ -1,6 +1,6 @@
-# [We Built a Discord Bot]
+# We Built a Discord Bot
 
-[Insert a brief description of your project here. Consider including a high-level overview of the project's purpose and functionality.]
+
 
 ## Table of Contents
 
