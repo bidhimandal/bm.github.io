@@ -35,7 +35,7 @@ How to use our bot?
 Upon installation, our bot should help you perform the following tasks:
 
 1. Moderation commands (e.g. kick, ban, mute)
-2. A ticket system that saves transcripts as text files]
+2. A ticket system that saves transcripts as text files
 
 ## Contributing
 
